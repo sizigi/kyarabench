@@ -1,0 +1,35 @@
+KyaraBench v1.0 metadata licence
+
+Copyright (c) 2026 the KyaraBench authors
+
+The metadata in this repository -- the files under data/ and results/ -- is licensed
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+  Summary:   https://creativecommons.org/licenses/by/4.0/
+  Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to share and adapt these files, for any purpose including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate whether you made changes.
+
+SCOPE
+
+This licence covers only the metadata authored here: identity groupings, trial
+lists, retrieval gallery and queries, same-actor pairs, per-identity pitch,
+clip checksums, span annotations, and the reference results.
+
+It does NOT cover, and cannot grant any rights over:
+
+  1. The Anim-400K corpus, its audio, its video, or any part of it. Anim-400K
+     is distributed by the Berkeley AI Research Lab under its own Terms of Use
+     and Non-Disclosure Agreement, and must be obtained directly from them:
+     https://huggingface.co/datasets/davidchan/anim400k
+     Nothing here grants you access to it or permission to redistribute it.
+
+  2. The underlying audiovisual works, which remain the property of their
+     respective copyright holders.
+
+  3. The model checkpoint, which is MIT licensed separately.
+
+The clip identifiers in these files are references into Anim-400K. They are
+useful only to someone who already holds the corpus under its own terms.

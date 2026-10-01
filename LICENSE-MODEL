@@ -1,0 +1,32 @@
+KyaraEmbed v1.0 model licence
+
+Copyright (c) 2026 the KyaraBench authors
+
+The KyaraEmbed checkpoint is licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+  Summary:   https://creativecommons.org/licenses/by-nc/4.0/
+  Full text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+You may share and adapt the checkpoint, including for academic and personal
+research, provided you give appropriate credit, link to the licence, and
+indicate whether you made changes. Commercial use is not granted by this
+licence.
+
+WHY NON-COMMERCIAL
+
+Part of the audio the checkpoint was fine-tuned on is held under terms that
+permit non-commercial research only. This licence carries that restriction
+forward rather than granting rights the training data does not support:
+
+  - Anim-400K is distributed by the Berkeley AI Research Lab for approved
+    non-commercial scientific or research use.
+  - The tri-jek corpus permits non-commercial research; its authors handle
+    commercial arrangements separately.
+
+If you need the checkpoint for a commercial purpose, the rights have to be
+settled with the holders of those corpora, not here.
+
+ATTRIBUTION CHAIN
+
+See NOTICE for the upstream licences this checkpoint inherits.

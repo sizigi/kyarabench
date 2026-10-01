@@ -1,0 +1,11 @@
+# Scoring a system of your own needs only these.
+numpy>=1.24
+soundfile>=0.12
+librosa>=0.10          # resampling, and the pitch-only baseline
+
+# The reference embedders each need their own package, listed in their module docstring:
+#   embedders/kyaraembed.py        torch, anime-speaker-embedding
+#   embedders/ecapa_voxceleb.py    torch, speechbrain
+#   embedders/redimnet_b2.py       torch
+#   embedders/wavlm_sv.py          torch, transformers
+#   embedders/qwen3_omni_audio.py  torch, transformers, huggingface-hub, safetensors

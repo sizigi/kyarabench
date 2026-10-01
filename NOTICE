@@ -1,0 +1,13 @@
+KyaraEmbed v1.0 is a derivative of two upstream models. Their licences require these notices to
+travel with any copy or substantial portion of the weights.
+
+1. speechbrain/spkrec-ecapa-voxceleb -- Apache License 2.0
+   https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb
+
+2. litagin/anime_speaker_embedding_ecapa_tdnn_groupnorm -- MIT License
+   https://huggingface.co/litagin/anime_speaker_embedding_ecapa_tdnn_groupnorm
+
+Modification made here: the weights of (2) were fine-tuned for 1,500 steps. The architecture is
+unchanged.
+
+The KyaraEmbed weights are released under CC BY-NC 4.0; see LICENSE-MODEL.
